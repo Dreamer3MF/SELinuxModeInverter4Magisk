@@ -1,0 +1,1 @@
+# SELinuxModeInverter4Magisk
