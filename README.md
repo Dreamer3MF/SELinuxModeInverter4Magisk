@@ -1,5 +1,4 @@
 SELinux Mode Inverter (Advanced SELinux Mode Changer)
-
 Introduction:
 Simple Module To Invert The Default Android SELinux Mode During Magisk Startup ([From Permissive To Enforcing] Or [From Enforcing To Permissive]).
 - One Module To Switch Between Enforcing Mode & Permissive Mode
